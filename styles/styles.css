@@ -1,6 +1,6 @@
 @font-face {
     font-family: myfont;
-    src: url(public/Lobster-Regular.ttf);
+    src: url(../public/Lobster-Regular.ttf);
 }
 
 #logo {
