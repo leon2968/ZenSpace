@@ -1,6 +1,7 @@
 # Welcome to ZenSpace
 
 It is a website for users who are interested in Zen practice.
+Demo: https://zenspace.vercel.app/login.html
 
 Contents:
 1. login.html: login with following credentials. Once you input correct credentials, it will redirect to home.html.
