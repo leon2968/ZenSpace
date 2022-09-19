@@ -3,12 +3,13 @@
 It is a website for users who are interested in Zen practice.
 
 Contents:
-1. login.html: login with following credentials
-email: user1@zenspace.com , password: zenspace
-email: admin@zenspace.com", password: admin
-email: trialuser@zenspace.com", password: trial"
+1. login.html: login with following credentials. Once you input correct credentials, it will redirect to home.html.
 
-Once you input correct credentials, it will redirect to home.html.
+    email: user1@zenspace.com , password: zenspace
+
+    email: admin@zenspace.com", password: admin
+
+    email: trialuser@zenspace.com", password: trial"
 
 2. home.html: 
 navigation bar on left: not implemented yet.
