@@ -13,10 +13,18 @@ Contents:
     email: trialuser@zenspace.com", password: trial"
 
 2. home.html: 
-navigation bar on left: not implemented yet.
-language setting on left bottom: not implemented yet.
-logout: directsyou back to login.html
+
+    navigation bar on left: functions not implemented yet.
+
+    language setting on left bottom: functions not implemented yet.
+
+    logout: directsyou back to login.html
 
 3. register.html:
-uses regex to validate if the user's email is valid.
-check if user's password and confirm password match.
+
+    uses regex to validate if the user's email is valid.
+
+    check if user's password and confirm password match.
+
+4. index.html:
+automatically redirect to login.html.
